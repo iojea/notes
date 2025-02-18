@@ -61,3 +61,5 @@ Implementar las siguientes funciones:
 ### Tests
   - Probar la función con `puntos_jugada = [1000,50,1150,200]`, `puntos_totales=[5500,1750,2100,3500]` y con `puntos_jugada = [150,250,300]`, `puntos_totales=[350,1100,2350]` y verificar que `puntos_totales` actualice sus valores correctamente.
   - Verificar que la función devuelva `None`.
+
+
