@@ -20,7 +20,22 @@
   - Plaza Ciencia La Matanza
   - Noche de los Museos
 
++ Diciembre Científicos por un día
+
 
 # Notas:
 - Vamos a restringir el cupo a semanas a 4to y 5to (6to) año.
+
+
+# Para la semana:
+- Hablar con Gabriela por cargos divus
+- Relevamiento de juegos y armado de pedido (para el miércoles 26/2) 
+- Agregar Newton a fractales
+- Guión / póster para fractales.
+- Pensar otros programas para jugar
+- Pedir guardaposters
+- Chusmear museo para armar taller
+
+# Para semana de la enseñanza
+- Poner un taller en torno al museo
 
