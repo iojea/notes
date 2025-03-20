@@ -28,7 +28,6 @@
 
 
 # Para la semana:
-- Hablar con Gabriela por cargos divus
 - Relevamiento de juegos y armado de pedido (para el miércoles 26/2) 
 - Agregar Newton a fractales
 - Guión / póster para fractales.
