@@ -1,3 +1,4 @@
+= Resumen
 Asistieron: 82 escuelas, 1361 personas.
 Pusimos: más de 200 extensionistas.
 - 12 charlas Aula Magna
@@ -14,6 +15,7 @@ Talleres: se cubrieron 36 turnos
 - Trucos con Sombreros (6)
 - Taller de Arte (3)
 - Zombis (3)
+
 - Taller de Museo (2)
 - Vuelta Elíptica (2)
 - Matemática para recomendar pelis
@@ -27,3 +29,9 @@ Talleres: se cubrieron 36 turnos
 - Género
 - ¿Cómo colgar un cuadro?
 - Fractales
+
+= Mejoras a futuro
+- Poner pósters o algo distintivo para llamar la atención sobre los juegos computacionales.
+- Quizá ubicar los juegos computacionales mechados con mesas de juegos para favorecer el paso de gente. 
+- Nunca poner la sala de escape en un aula que venga previamente ocupada: hace falta tiempo para armarla.
+- 
