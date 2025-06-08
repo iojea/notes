@@ -34,4 +34,4 @@ Talleres: se cubrieron 36 turnos
 - Poner pósters o algo distintivo para llamar la atención sobre los juegos computacionales.
 - Quizá ubicar los juegos computacionales mechados con mesas de juegos para favorecer el paso de gente. 
 - Nunca poner la sala de escape en un aula que venga previamente ocupada: hace falta tiempo para armarla.
-- 
+- Recordar hacer pedido de soft a la UTI con más de un mes de anticipación. 
