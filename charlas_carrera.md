@@ -1,12 +1,14 @@
-# 14 de marzo (ingresantes)
+# Charlas de carrera
+
+## 14 de marzo (ingresantes)
 + Georgina Giacobbe
 + Pablo Turco
 
-# 6 de mayo (virtual)
+## 6 de mayo (virtual)
 + Laura Pardina (E-A)
 + Leonardo Lanciano (G-P)
 
-# 1 de julio (presencial)
+## 1 de julio (presencial)
 + Victoria Pérez Ruiz (E-P)
 + Sebastián Zaninovich (G-P)
 
@@ -14,8 +16,8 @@
 + Natalia Accomazzo
 + Mauro Rodríguez Cartabia
 
-## Candidatos:
-### Estudiantes
+### Candidatos:
+#### Estudiantes
 + Boris Burd
 + Eliana Minino Suárez (prof...)
 + Joaquín Fernández 
@@ -26,7 +28,7 @@
 + Octavio Palacio (A)
 + 
 
-### Graduados
+#### Graduados
 + Sebas Pedersen
 + Lu Busolini
 + Fernando Vische
@@ -36,7 +38,7 @@
 + Tomás Fernández Vidal
 + Cecilia De Vita
 
-### Profes
+#### Profes
 + Francisco
 + Martín Maas
 + Mauro
