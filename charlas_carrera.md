@@ -11,8 +11,8 @@
 + Sebastián Zaninovich (G-P)
 
 # 14 de agosto (ingresantes)
-+
-+
++ Natalia Accomazzo
++ Mauro Rodríguez Cartabia
 
 ## Candidatos:
 ### Estudiantes
