@@ -8,3 +8,5 @@ MARCELA CAPOBIANCO - UNIVERSIDAD NACIONAL DEL SUR / DEPARTAMENTO DE CS.E ING.DE 
 Marcelo Falappa - UNS - https://cs.uns.edu.ar/~mfalappa/
 Pablo Rubén Fillottrani - UNS - https://lissi.cs.uns.edu.ar/integrantes/investigador-1/
 Gustavo E Juárez - da Bases de Datos en FACET. - https://scholar.google.com/citations?user=vr3M1G8AAAAJ&hl=es
+Claudia Deco - FCEIA
+Cristina Bender - FCEIA
