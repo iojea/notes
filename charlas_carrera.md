@@ -34,7 +34,6 @@
 + Fernando Vische
 + Nicolás Agote
 + Julián Masliah (P)
-+ Ignacio Ceresa Dussel
 + Tomás Fernández Vidal
 + Cecilia De Vita
 
