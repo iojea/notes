@@ -21,7 +21,7 @@
 + Jorge Berón
 
 # 30 de octubre (presencial)
-+
++ Cecilia De Vita
 + Boris Burd
 
 
