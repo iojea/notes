@@ -16,6 +16,15 @@
 + Natalia Accomazzo
 + Mauro Rodríguez Cartabia
 
+# 9 de septiembre (virtual)
++ Franco Rufolo
++ Jorge Berón
+
+# 30 de octubre (presencial)
++
++ Boris Burd
+
+
 ### Candidatos:
 #### Estudiantes
 + Boris Burd
@@ -23,7 +32,6 @@
 + Joaquín Fernández 
 + Pablo Battaglini (A)
 + Sol Nabot (P)
-+ Jorge Berón (A)
 + Juan Ignacio Gargano (A2, Pura y Física)
 + Octavio Palacio (A)
 + 
