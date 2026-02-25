@@ -12,3 +12,8 @@ Pablo Rubén Fillottrani - UNS - https://lissi.cs.uns.edu.ar/integrantes/investi
 Gustavo E Juárez - da Bases de Datos en FACET. - https://scholar.google.com/citations?user=vr3M1G8AAAAJ&hl=es
 Claudia Deco - FCEIA
 Cristina Bender - FCEIA
+
++ SIMARI, Gerardo Ignacio, ICIC - UNS
++ CHESÑEVAR, Carlos Iván, ICIC - UNS
++ PONZONI, Ignacio, ICIC - UNS
+
