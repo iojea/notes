@@ -28,7 +28,8 @@
 
 ## 2026
 # 13 de marzo (ingresantes)
-
++ Paula Kuna
++ Joaquín Singer
 
 ### Candidatos:
 #### Estudiantes
