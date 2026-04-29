@@ -31,12 +31,18 @@
 + Paula Kuna
 + Joaquín Singer
 
+# 7 de mayo (virtual)
++ Fernando Vische
++ Daniela Siegrist
+
+
 ### Candidatos:
 #### Estudiantes
 + Eliana Minino Suárez (prof...)
 + Joaquín Fernández 
 + Pablo Battaglini (A)
 + Sol Nabot (P)
++ Federica di Tullio (A)
 + Juan Ignacio Gargano (A2, Pura y Física)
 + Octavio Palacio (A)
 
@@ -44,12 +50,10 @@
 #### Graduados
 + Sebas Pedersen
 + Lu Busolini
-+ Fernando Vische
 + Nicolás Agote
 + Julián Masliah (P)
 + Tomás Fernández Vidal
 + Piombo
-+ Singer
 + Dorda
 + Valentín Nico
 + Luca Zanela
