@@ -35,6 +35,8 @@
 + Fernando Vische
 + Daniela Siegrist
 
+# 30 de junio (presencial)
+
 
 ### Candidatos:
 #### Estudiantes
