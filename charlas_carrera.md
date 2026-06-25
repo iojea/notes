@@ -36,7 +36,8 @@
 + Daniela Siegrist
 
 # 30 de junio (presencial)
-
++ Joaquín Viera
++ Sol Nabot
 
 ### Candidatos:
 #### Estudiantes
