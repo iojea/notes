@@ -39,12 +39,16 @@
 + Joaquín Viera
 + Sol Nabot
 
+# de agosto (ingresantes)
++
++
+
+
 ### Candidatos:
 #### Estudiantes
 + Eliana Minino Suárez (prof...)
 + Joaquín Fernández 
 + Pablo Battaglini (A)
-+ Sol Nabot (P)
 + Federica di Tullio (A)
 + Juan Ignacio Gargano (A2, Pura y Física)
 + Octavio Palacio (A)
@@ -83,3 +87,4 @@
 + Cesaratto
 + Andrea
 + Eugenia Di Iorio
++ Seba Velazquez
