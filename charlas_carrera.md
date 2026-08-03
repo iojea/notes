@@ -40,8 +40,8 @@
 + Sol Nabot
 
 # de agosto (ingresantes)
-+
-+
++ Pablo Zadunaisky
++ 
 
 
 ### Candidatos:
