@@ -39,10 +39,18 @@
 + Joaquín Viera
 + Sol Nabot
 
-# de agosto (ingresantes)
+# 7 de agosto (ingresantes)
 + Pablo Zadunaisky
++ Euge di Iorio
+
+
+# 10 de septiembre (virtual)
++
 + 
 
+# 5 de noviembre (presencial)
++
++
 
 ### Candidatos:
 #### Estudiantes
