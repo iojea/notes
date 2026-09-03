@@ -63,6 +63,8 @@
 
 
 #### Graduados
++ Grevino (no puede jueves 2c26)
++ Emiliano Acri (no puede jueves 2c26)
 + Sebas Pedersen
 + Lu Busolini
 + Nicolás Agote
@@ -77,7 +79,6 @@
 + Darío Aza
 + Charly
 + Zucotti
-+ Grevino
 + Arnone
 + Acri
 + Virginia Guevara
